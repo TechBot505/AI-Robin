@@ -14,13 +14,7 @@ from functions.text_to_speech import convert_text_to_speech
 app = FastAPI()
 
 #CORS - Origins
-origins = [
-    "http://localhost:5173",
-    "http://localhost:5174",
-    "http://localhost:4173",
-    "http://localhost:4174",
-    "http://localhost:3000"
-]
+origins = ["*"]
 
 #CORS - Middleware
 app.add_middleware(

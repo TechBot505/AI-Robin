@@ -1,5 +1,5 @@
 # AI-Robin
-Robin is an AI-powered voice assistant built using OpenAI's Whisper ASR (Automatic Speech Recognition) system, the OpenAI GPT API, and Eleven Labs' text-to-speech conversion technology. With Robin, you can interact with your applications and devices using natural language voice commands.
+Robin is an AI-powered voice assistant built using OpenAI's Whisper ASR (Automatic Speech Recognition) system, the OpenAI GPT API, and Eleven Labs' text-to-speech conversion technology. With Robin, you can interact using speech and customize Robin's personality to get interesting responses and have conversation.
 
 ## Features
 * Speech Recognition: Robin utilizes OpenAI's Whisper ASR system to accurately transcribe spoken language into text. This allows you to communicate with Robin using your voice and have your commands accurately understood.
